@@ -1,0 +1,30 @@
+_repo: Ordnance-Instructions-for-the-United-States-Navy.1866.-Fourth-edition._19058
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: United States. Navy Department. Bureau of Ordnance
+    alias: United States. Navy Dept. Bureau of Ordnance
+    gutenberg_agent_id: '8438'
+    url: http://www.gutenberg.org/2009/agents/8438
+description: ''
+gutenberg_issued: '2006-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19058'
+  lccn: 09008234
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'VF'
+- !lcsh 'United States. Navy'
+- !lcsh 'United States. Navy -- Small-boat service'
+- !lcsh 'United States. Navy -- Ordnance and ordnance stores'
+title: 'Ordnance Instructions for the United States Navy.
+
+  1866. Fourth edition.'
+url: http://www.gutenberg.org/ebooks/19058
